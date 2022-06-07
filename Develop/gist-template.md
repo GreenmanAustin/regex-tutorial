@@ -1,8 +1,14 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+This is a tutorial designed to teach certain basic concepts of regex.  Regex is short for regular expression, which is a string of text that allows one to create patterns that help match, locate and manage text.  
 
 ## Summary
+
+This tutorial uses the following regex, which matches email addresses, as an example of the concepts discussed below:  
+
+/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
+Specifically, this tutorial covers:  
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
